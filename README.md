@@ -1,6 +1,6 @@
 # Coding the Classics
 
-This is the repository of coding files for the YouTube Channel [Zach Attakk Games](https://www.youtube.com/@ZachAttakkGames) where we code simple games to learn to code!
+This is the repository of coding files for the YouTube Channel [Zach Attakk Codes](https://www.youtube.com/@ZachAttakkCodes) where we code simple games to learn to code!
 
 ## Tutorials
 - [Pong](https://bit.ly/pong_tutorial)
