@@ -2,6 +2,8 @@
 
 This is the repository of coding files for the YouTube Channel [Zach Attakk Codes](https://www.youtube.com/@ZachAttakkCodes) where we code simple games to learn to code!
 
+We upload the code file at the end of each episode so you can follow along. If you'd like to code along, grab the file from the previous episode.
+
 ## Tutorials
 - [Pong](https://bit.ly/pong_tutorial)
 
