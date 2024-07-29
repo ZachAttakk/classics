@@ -11,4 +11,4 @@ We upload the code file at the end of each episode so you can follow along. If y
 </p>
 
 ## Licensing
-These files are provided for reference while learning and is not intended to be used "as is". Experimentation and sharing is encouraged as long as your own creations are not sold commercially, and the YouTube channel (above) is attributed. See the [included license]([url](https://github.com/ZachAttakk/classics?tab=License-1-ov-file)) for details.
+These files are provided for reference while learning and is not intended to be used "as is". Experimentation and sharing is encouraged as long as your own creations are not sold commercially, and the YouTube channel (above) is attributed. See the [included license](https://github.com/ZachAttakk/classics?tab=License-1-ov-file) for details.
